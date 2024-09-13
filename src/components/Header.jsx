@@ -12,9 +12,9 @@ function Header() {
       <ul>
         <button className="mr-5 btn btn-reverse-primary">
           <i className="fa-solid fa-basket-shopping mr-5"></i>
-          <span>panier</span>
+          <span>Panier</span>
         </button>
-        <button className="btn btn-primary">connexion</button>
+        <button className="btn btn-primary">Connexion</button>
       </ul>
     </header>
   ) 
