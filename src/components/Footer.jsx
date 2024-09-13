@@ -4,7 +4,7 @@ function Footer() {
   return (
     <footer>
       <p className={`${ styles.footer } d-flex flex-row align-items-center justify-content-center p-20`}>
-        Copyright © 2024 Cookchef
+        Copyright © 2024 Cookchef - https://github.com/gtn-massart
       </p>
     </footer>
     ) 
